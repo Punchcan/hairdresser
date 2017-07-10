@@ -82,6 +82,12 @@
   text-align:center;
   line-height:normal;
 }
+.sticky_2 {
+  text-align:left;
+}
+.marker {
+  color:#FFFFFF;
+}
 ._图片1 {
   color:#000000;
 }
@@ -99,6 +105,8 @@
 }
 .line {
 }
+.arrow {
+}
 .text_field {
   color:#000000;
   text-align:left;
@@ -110,6 +118,8 @@
 ._默认样式 {
 }
 .image {
+}
+.snapshot {
 }
 ._连接线1 {
   font-family:'Arial Normal', 'Arial';
@@ -149,4 +159,15 @@
 }
 .image1 {
   color:#000000;
+}
+._形状2 {
+  font-size:13px;
+  color:#000000;
+}
+._文本段落1 {
+  font-size:13px;
+  color:#000000;
+  text-align:left;
+}
+.box_21 {
 }
